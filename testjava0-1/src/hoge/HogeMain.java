@@ -7,6 +7,8 @@ public class HogeMain {
 		System.out.println("hoge");
 		System.out.println("developing");
 		System.out.println("developing22");
+		
+		String hoge = "hoge";
 
 	}
 
