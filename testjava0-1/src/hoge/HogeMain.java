@@ -9,6 +9,7 @@ public class HogeMain {
 		System.out.println("developing22");
 		
 		String hoge = "hoge";
+		int i = 0;
 
 	}
 
