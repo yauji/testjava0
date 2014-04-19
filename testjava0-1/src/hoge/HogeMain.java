@@ -6,6 +6,7 @@ public class HogeMain {
 		// TODO Auto-generated method stub
 		System.out.println("hoge");
 		System.out.println("developing");
+		System.out.println("developing2");
 
 	}
 
